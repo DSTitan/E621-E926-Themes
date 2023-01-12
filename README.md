@@ -1,4 +1,4 @@
-# E621 E926 Themes
+# E621 & E926 Themes
 Custom themes I made for [e621](https://e621.net) and [e926](https://e926.net) that you can use.
 
 ### How to apply theme
