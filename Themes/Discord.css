@@ -230,3 +230,9 @@ article.post-preview[data-file-ext="webm"] > a:sbefore {
     left: -0.1rem;
     padding: 3px 9px;
 }
+.site-notice {
+    background-color: #202225 !important;
+    border-radius: 8px !important;
+    border: none !important;
+    margin-bottom: .5rem !important;
+}
