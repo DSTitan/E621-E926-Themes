@@ -1,8 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap");
 
+*:not(.fa):not(.fas):not(.far):not(.fal):not(.fad):not(.fab) {
+    font-family: "gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
 body {
     background-color: #202225 !important;
-    font-family: "gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
 }
 header {
     margin-top: 20px;
